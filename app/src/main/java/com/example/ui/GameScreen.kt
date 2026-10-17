@@ -166,7 +166,8 @@ fun GameScreen(
                             isInMoveRange = isInMoveRange,
                             isInAttackRange = isInAttackRange,
                             textMeasurer = textMeasurer,
-                            animationTick = animTick
+                            animationTick = animTick,
+                            season = uiState.currentSeason
                         )
                     }
                 }
