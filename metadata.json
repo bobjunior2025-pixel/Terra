@@ -1,0 +1,6 @@
+{
+  "name": "Terra Imperium",
+  "description": "A deep turn-based 4X kingdom strategy game on a dynamic grid with tactical battles, terrain resources, seasonal cycles, empire expansion, and tech research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
